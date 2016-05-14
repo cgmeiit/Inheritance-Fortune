@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Copy Inher\Copy Inher\bin\Debug\Copy Inher.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Copy Inher\Copy Inher\bin\Debug\Copy Inher.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Copy Inher\Copy Inher\bin\Debug\Copy Inher.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Copy Inher\Copy Inher\obj\Debug\Copy Inher.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Copy Inher\Copy Inher\obj\Debug\Copy Inher.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Copy Inher\Copy Inher\obj\Debug\Copy Inher.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Inheritence -Fortune\Copy Inher\bin\Debug\Copy Inher.exe.config
+C:\Users\WeCanCodeIT\Documents\Inheritence -Fortune\Copy Inher\obj\Debug\Copy Inher.exe
+C:\Users\WeCanCodeIT\Documents\Inheritence -Fortune\Copy Inher\obj\Debug\Copy Inher.pdb
